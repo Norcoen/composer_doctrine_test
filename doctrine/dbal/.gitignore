@@ -1,0 +1,8 @@
+build/
+logs/
+reports/
+dist/
+download/
+vendor/
+*.phpunit.xml
+composer.lock
